@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Client buildversion="6.0.0.0" fpversion="10.1.85.3" cefversion="3.1082.566">
+	<Software>
+		<Update>
+			<Service>http://195.234.98.115/update.php</Service>
+			<Mirror>http://195.234.98.115/</Mirror>
+		</Update>
+		<Storage>
+			<Setup maxreload="3"></Setup>
+		</Storage>
+	</Software>
+	<Promotion>
+		<Broker>grand</Broker>
+		<Partner>down001</Partner>
+	</Promotion>
+</Client>
