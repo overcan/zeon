@@ -2,8 +2,8 @@
 <Client buildversion="6.0.0.0" fpversion="10.1.85.3" cefversion="3.1082.566">
 	<Software>
 		<Update>
-			<Service>http://195.234.98.122/update.php</Service>
-			<Mirror>http://195.234.98.122/</Mirror>
+			<Service>http://195.234.98.233/update.php</Service>
+			<Mirror>http://195.234.98.233/</Mirror>
 		</Update>
 		<Storage>
 			<Setup maxreload="3"></Setup>
