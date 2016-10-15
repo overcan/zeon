@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Client buildversion="7.0.0.0" fpversion="10.1.85.3" cefversion="3.2171.1979">
+<Client buildversion="7.1.0.0" fpversion="10.1.85.3" cefversion="3.2171.1979">
 	<Software>
 		<Update>
 			<Service>http://195.234.98.233/update.php</Service>
